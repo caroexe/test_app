@@ -1,3 +1,3 @@
 # README
 
-1. Complete ruby on rails project
+1. Complete ruby on rails project by caro 
